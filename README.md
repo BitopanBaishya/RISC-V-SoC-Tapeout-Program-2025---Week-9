@@ -1,6 +1,6 @@
 # Week 9: Final Documentation Submission 
  
-The focus of this week is
+Week 9 completes the VSDBabySoC journey by consolidating the full design flow into a final, polished repository. This stage brings together every prior step — from architecture and RTL to synthesis, placement, routing, SPEF extraction, and multi-corner STA — into a unified deliverable. The comprehensive documentation captures each milestone, experiment, and timing insight, preparing the design for sign-off and future extension.
 
 ---
 
@@ -2485,11 +2485,10 @@ The primary challenge encountered this week was severe congestion during the rou
 ---
 
 ## 🏁 Final Remarks
+Week 9 brought the entire VSDBabySoC journey full circle. This was the moment where every stage — from RTL and synthesis to routing, SPEF extraction, and STA — was consolidated into a single, coherent GitHub repository. The documentation now captures not just the standard flow, but also the custom fixes, debugging efforts, and automated analysis tools that shaped the final design.
 
+By organizing all visuals, reports, and scripts, this week transformed months of work into a clear, review-ready record. With multi-corner timing results aligned for both post-synthesis and post-SPEF stages, and all unique contributions formally highlighted, the project now stands complete, transparent, and ready for evaluation or future extension. Week 9, therefore, marks the formal closing of the design journey and the handoff of a fully documented SoC implementation.
 
-
-
-
-
-
+>[!IMPORTANT]
+> For easy navigation to all the weeks of the program, please visit the [Master Repository](https://github.com/BitopanBaishya/VSD-Tapeout-Program-2025.git).
 
