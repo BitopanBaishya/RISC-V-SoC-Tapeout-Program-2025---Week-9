@@ -30,6 +30,7 @@ Week 9 completes the VSDBabySoC journey by consolidating the full design flow in
 [18. Interpretations and Discussions](#18-interpretations-and-discussions)<br><br>
 [My Unique Contributions](#my-unique-contributions)<br>
 [⚠️ Challenges](#%EF%B8%8F-challenges)<br>
+[🏁 Final Remarks](#-final-remarks)
 
 ---
 
